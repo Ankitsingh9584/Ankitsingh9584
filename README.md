@@ -20,10 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2>🙋‍♂️ About Me</h2>
-<br/>
-<br/>
-<br/>
-<img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+
 - 🔭 I’m I’m currently pursuing Full Stack **Web Development**
 
 - 🌱 I’m currently learning **Backend**
@@ -33,6 +30,10 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **ankit.s@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
+- <br/>
+<br/>
+<br/>
+<img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 <!-- - ⚡ Fun fact **i am funny 	:innocent:** -->
 
