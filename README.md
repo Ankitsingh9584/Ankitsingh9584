@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **ankit.s@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
-- 
+
 
 
 <!-- - ⚡ Fun fact **i am funny 	:innocent:** -->
