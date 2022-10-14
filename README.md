@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ankit Singh Rajawat 😇; I am a Full-stack%20web%20developer 👨‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<img height="200px" align="right" marginTop="10%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 
+<img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 <h2>🙋‍♂️ About Me</h2>
 
 - 🔭 I’m I’m currently pursuing Full Stack **Web Development**
