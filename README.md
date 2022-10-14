@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 <!-- - ⚡ Fun fact **i am funny 	:innocent:** -->
 
 <br/>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rajawat-08579521a/) 
 
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
