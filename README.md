@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div> -->
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ankit Singh Rajawat</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaleshwardas&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh" /> </p>
+
   <h3 align="center">A passionate Full Stack Developer is in making</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
