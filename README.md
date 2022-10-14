@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
+<img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 <h2>🙋‍♂️ About Me</h2>
 
