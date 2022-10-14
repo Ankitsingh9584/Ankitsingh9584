@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-<h2>🙋‍♂️ About Me</h2>
 
+<h2>🙋‍♂️ About Me</h2>
+<img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 - 🔭 I’m I’m currently pursuing Full Stack **Web Development**
 
 - 🌱 I’m currently learning **Backend**
