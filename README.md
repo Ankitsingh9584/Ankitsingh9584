@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 <hr />
  <h2 align="left">📊 My Github Stats</h2>
 <br/>   
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
 <!-- (https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical) -->
 <br/>
 <br/>
