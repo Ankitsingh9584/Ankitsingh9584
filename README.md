@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ankitsingh9584)
 
-- 📫 How to reach me **ankit.s@gmail.com**
+- 📫 How to reach me **ankit.s8080@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
 
