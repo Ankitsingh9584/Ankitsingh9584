@@ -89,6 +89,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&theme=radical" alt="AnkitSingh"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh958&theme=radical" alt="AnkitSingh" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> 
 
 
