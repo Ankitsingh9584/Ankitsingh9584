@@ -90,8 +90,8 @@ You can click the Preview link to take a look at your changes.
 <!-- (https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical) -->
 <br/>
 <br/>
- <p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username==Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
+<!--  <p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username==Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> -->
 <br/>
 <br/>
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleshwardas&" alt="kaleshwardas" /></p> 
- --> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&" alt="AnkitSingh" /></p> 
+ -->
