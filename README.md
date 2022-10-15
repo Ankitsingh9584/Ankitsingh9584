@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
  <h2 align="left">📊 My Github Stats</h2>
 <br/>   
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&show_icons=true&locale=en&layout=compact" alt="AnkitSingh" /></p> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical)
+--> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical)
 <br/>
 <br/>
 <!-- <p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaleshwardas&show_icons=true&locale=en" alt="kaleshwardas" /></p>
