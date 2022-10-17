@@ -41,12 +41,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rajawat-08579521a/) 
 
-<!-- <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/kabirdas8720" target="blank"><img align="center" atc="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabirdas8720" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaleshwardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleshwardas" height="30" width="40" /></a>
 
-</p> -->
 
 <br/>
 <h2 align="left">🚀 Languages and Tools:</h2>
