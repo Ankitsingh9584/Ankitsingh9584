@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>🙋‍♂️ About Me</h2>
 <img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-- 🔭 I’m I’m currently pursuing Full Stack **Web Development**
+- 🔭 I’m  currently pursuing Full Stack **Web Development**
 
 - 🌱 I’m currently learning **Backend**
 
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **ankit.s8080@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
 
 
 
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/kabirdas8720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabirdas8720" height="30" width="40" /></a>
+<a href="https://twitter.com/kabirdas8720" target="blank"><img align="center" atc="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabirdas8720" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaleshwardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleshwardas" height="30" width="40" /></a>
 
 </p> -->
