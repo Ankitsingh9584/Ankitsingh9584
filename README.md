@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **ankit.s8080@gmail.com**
 
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/15UD5mndex3uHMdp05__fg4fY5XAsY1lJ/view?usp=sharing)
-- 👨‍💻  [portfolio](https://ankitsingh9584.github.io/)
+- 👨‍💻  [Portfolio](https://ankitsingh9584.github.io/)
 
 
 
