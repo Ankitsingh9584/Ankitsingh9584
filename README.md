@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankitsingh9584" alt="ankitsingh" /></a> </p>
 <br />
 <br />
-<img src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif" alt="coder-gif" align="right" width=350px height=250px />
+
 
 
 
