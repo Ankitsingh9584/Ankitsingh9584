@@ -82,7 +82,10 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  
 </div>
+## Current Stats:
 
+|   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
+| :---: |
 
 <br/>
 
