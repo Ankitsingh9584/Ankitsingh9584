@@ -79,19 +79,27 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 <br/>
-<div>
+
   <h2> Current Stats:</h2>
 <br/>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
+
+|   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
+| :---: |
+
+| ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&show_icons=true&theme=dark) | ![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=dark) |
+| :---: | :---: |
+
+
+<!-- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
 <br/>
 
 <!-- <hr /> -->
-
+<!-- 
 <br/>
  <h2  align="left">📊 My Github Stats</h2>
 <br/>   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
-<p><img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> 
+<p><img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>  --> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&theme=radical" alt="AnkitSingh"/></p> -->
 
 
