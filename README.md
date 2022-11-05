@@ -86,9 +86,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 ## Current Stats:
 <br/>
-
-|   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
-| :---: |
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
+<!-- |   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
+| :---: | -->
 
 
 <br/>
