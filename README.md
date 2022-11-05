@@ -82,6 +82,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  
 </div>
+<br/>
 ## Current Stats:
 
 |   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
@@ -95,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <br/>   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&theme=radical" alt="AnkitSingh"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&theme=radical" alt="AnkitSingh"/></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> 
 
 
