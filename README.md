@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 <hr />
 
 <br/>
- <h2 marginTop="20px" align="left">📊 My Github Stats</h2>
+ <h2 margin-top="20px" align="left">📊 My Github Stats</h2>
 <br/>   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
 <p><img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p> 
