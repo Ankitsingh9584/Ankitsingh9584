@@ -40,12 +40,7 @@ You can click the Preview link to take a look at your changes.
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
 
 
-
-
-<!-- - ⚡ Fun fact **i am funny 	:innocent:** -->
-
-<br/>
-
+<br//
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rajawat-08579521a/) 
