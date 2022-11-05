@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **ankit.s8080@gmail.com**
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1AE_eTJ3pmBgVc8JysiYpUk31OLlPH5lL/view?usp=sharing)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/19gRTkXhl9sLYr0AgBSLkP6l5nOb_T3Gt/view?usp=sharing)
 
 
 <br//
