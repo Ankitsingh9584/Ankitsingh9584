@@ -87,12 +87,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Current Stats:</h2>
 <br/>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
-
-<!-- |   ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue) |
-| :---: | -->
-
-
-
+<br/>
 <hr />
 
 <br/>
