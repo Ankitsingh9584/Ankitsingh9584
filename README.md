@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 <!--  https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&show_icons=true&theme=radical-->
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsingh9584&theme=radical)](https://git.io/streak-stats) | ![Ankit's GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=Ankitsingh9584&show_icons=true&theme=radical&include_all_commits=true&count_private=true ) |
 | :---: | :---: |
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsingh9584)]
 
 <!-- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
 <br/>
