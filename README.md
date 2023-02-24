@@ -8,12 +8,12 @@ You can click the Preview link to take a look at your changes.
   <img radius="50%" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" w="500"/>
 </div> -->
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Ankit Singh Rajawat</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">,👋 I'm Ankit Singh Rajawat</h1>
 
   <h3 align="center">Aspiring MERN stack developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi!👋 My self Ankit Singh Rajawat 😇; I am a Full-stack%20web%20developer 👨‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ankit Singh Rajawat 😇; I am a Full-stack%20web%20developer 👨‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
     <br/>
     <br/>
 </p>
