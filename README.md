@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <img radius="50%" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" w="500"/>
 </div> -->
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">,👋 I'm Ankit Singh Rajawat</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">👋,I'm Ankit Singh Rajawat</h1>
 
   <h3 align="center">Aspiring MERN stack developer</h3>
 <p align="center">
