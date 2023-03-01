@@ -4,9 +4,7 @@
 Ankitsingh9584/Ankitsingh9584 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <div align="center" radius="50%">
-  <img radius="50%" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" w="500"/>
-</div> -->
+
 <!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> -->
 <h1 align="center">Hi👋, I'm Ankit Singh Rajawat</h1>
 
@@ -22,10 +20,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankitsingh9584" alt="ankitsingh" /></a> </p>
 <br />
 <br />
-
-
-
-
 
 <h2>🙋‍♂️ About Me</h2>
 <img height="200px" align="right"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
@@ -89,18 +83,5 @@ You can click the Preview link to take a look at your changes.
 <!--  https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&show_icons=true&theme=radical-->
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsingh9584&theme=radical)](https://git.io/streak-stats) | ![Ankit's GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=Ankitsingh9584&show_icons=true&theme=radical&include_all_commits=true&count_private=true ) |
 | :---: | :---: |
-
-
-<!-- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ankitsingh9584&theme=rogue" alt="AnkitSingh" /></p>
-<br/>
-
-<!-- <hr /> -->
-<!-- 
-<br/>
- <h2  align="left">📊 My Github Stats</h2>
-<br/>   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>
-<p><img  align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsingh9584&theme=radical" alt="AnkitSingh" /></p>  --> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitsingh9584&theme=radical" alt="AnkitSingh"/></p> -->
 
 
