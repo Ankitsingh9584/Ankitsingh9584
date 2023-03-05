@@ -5,7 +5,7 @@ Ankitsingh9584/Ankitsingh9584 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> -->
+
 <h1 align="center">Hi👋, I'm Ankit Singh Rajawat</h1>
 
   <h3 align="center">Aspiring MERN stack developer</h3>
