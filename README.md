@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/1rIWsDOzYiw3tIMsleZLcI-XYTXGQesHH/view?usp=sharing)
 
-
 <br/>
 
 ## 🌐 Socials
